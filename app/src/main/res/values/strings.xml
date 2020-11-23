@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Database</string>
+
+    <array name="Genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Pop</item>
+        <item>Folk</item>
+    </array>
+
+</resources>
